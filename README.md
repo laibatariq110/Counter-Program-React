@@ -2,6 +2,10 @@
 
 This is a simple counter application built with React. The app allows users to increment, decrement, and reset the counter value.
 
+## 🌐 Live Demo
+![Counter Prpgram React Screenshot](src/assets/counter-program-react-ss.png)
+[View the live project here!](https://laibatariq110.github.io/Counter-Program-React)
+
 ## Features
 
 - **Increment**: Increase the counter value by 1.
@@ -9,8 +13,6 @@ This is a simple counter application built with React. The app allows users to i
 - **Reset**: Reset the counter value to 0.
 
 ## Project Structure
-
-├── public ├── src │ ├── assets │ ├── App.jsx │ ├── Counter.jsx │ ├── index.css │ ├── main.jsx ├── .gitignore ├── README.md ├── eslint.config.js ├── index.html ├── package-lock.json ├── package.json ├── vite.config.js
 
 - **public**: Contains the static files like the `index.html`.
 - **src/assets**: Contains any asset files like images, fonts, etc.
@@ -43,6 +45,3 @@ Once the development server is running, you can view the app by navigating to ht
 - **Counter.jsx**: The main component that handles the counter logic and UI.
 - **index.css**: CSS file for styling the counter component.
 
-## License
-
-This project is licensed under the MIT License.
